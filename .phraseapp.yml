@@ -1,0 +1,13 @@
+phraseapp:
+  access_token: dafb33f8c90a320c54cfe23aff0a0ea6b3f918419a3c3fab7210cbd158a911f8
+  project_id: 3bff7b01dba2bb5fd9257f5198663f13
+  push:
+    sources:
+    - file: ./en-us.json
+      params:
+        file_format: simple_json
+  pull:
+    targets:
+    - file: ./ar-sa.json
+      params:
+        file_format: simple_json
