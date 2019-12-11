@@ -1,5 +1,6 @@
 {
 	"Hello {{username}}": "Hello {{username}}",
 	"Bye!": "Bye!",
-	"Ok": "Ok"
+	"Ok": "Ok",
+	"Cancel": "Cancel"
 }
