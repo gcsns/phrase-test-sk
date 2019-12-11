@@ -6,8 +6,16 @@ phraseapp:
     - file: ./en-us.json
       params:
         file_format: simple_json
-  pull:
-    targets:
     - file: ./ar-sa.json
       params:
         file_format: simple_json
+        update_translations: true
+  pull:
+    targets:
+    - file: ./en-us.json
+      params:
+        file_format: simple_json
+    - file: ./ar-sa.json
+      params:
+        file_format: simple_json
+        include_unverified_translation: true
