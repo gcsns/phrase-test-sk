@@ -3,19 +3,19 @@ phraseapp:
   project_id: 3bff7b01dba2bb5fd9257f5198663f13
   push:
     sources:
-    - file: ./en-us.json
+    - file: ./en-US.json
       params:
         file_format: simple_json
-    - file: ./ar-sa.json
+    - file: ./ar-SA.json
       params:
         file_format: simple_json
         update_translations: true
   pull:
     targets:
-    - file: ./en-us.json
+    - file: ./en-US.json
       params:
         file_format: simple_json
-    - file: ./ar-sa.json
+    - file: ./ar-SA.json
       params:
         file_format: simple_json
         include_unverified_translation: true
