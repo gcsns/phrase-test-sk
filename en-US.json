@@ -2,6 +2,6 @@
 	"Hello {{username}}": "Hello {{username}}",
 	"Bye!!": "Bye!!",
 	"Ok": "Ok",
-	"Cancel": "Cancel",
+	"Cancel button": "Cancel",
 	"Save": "Save"
 }
