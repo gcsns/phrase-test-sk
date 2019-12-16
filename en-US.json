@@ -1,8 +1,9 @@
 {
-	"Hello {{username}}": "Hello {{username}}",
-	"Bye!!": "Bye!!",
-	"Ok": "Ok",
-	"Cancel button label": "Cancel",
-	"Save": "Save",
-	"Congratulations!": "Congratulations!"
+  "Bye!!": "Bye!!",
+  "Cancel button": "Cancel",
+  "Cancel button label": "Cancel",
+  "Congratulations!": "Congratulations!",
+  "Hello {{username}}": "Hello {{username}}",
+  "Ok": "Ok",
+  "Save": "Save"
 }
