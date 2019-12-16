@@ -10,7 +10,7 @@ phraseapp:
         update_translations: true
     - file: ./ar-SA.json
       params:
-        locale_id: 022789127f32e206d5461d2e7e9ee8cc
+        locale_id: 0ff838cb0ab40fdb763d02c0d7645795
         file_format: simple_json
         update_translations: true
   pull:
@@ -22,7 +22,7 @@ phraseapp:
         update_translations: true
     - file: ./ar-SA.json
       params:
-        locale_id: 022789127f32e206d5461d2e7e9ee8cc
+        locale_id: 0ff838cb0ab40fdb763d02c0d7645795
         file_format: simple_json
         include_unverified_translation: true
         update_translations: true
