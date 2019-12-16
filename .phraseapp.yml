@@ -1,15 +1,28 @@
 phraseapp:
-  access_token: ec6f12240a3710fda3a019ed557c26eaf32f77d73ce309a29ced34dd10f959be 
-  project_id: 3bff7b01dba2bb5fd9257f5198663f13
+  access_token: 6d93e45032da5a23f2574384a65a8c5627b310c2 
+  project_id: d971453e2d2e0003df8a56a2b18191c9
   push:
     sources:
-    - file: ./strings.json
+    - file: ./en-US.json
       params:
+        locale_id: c6a60a221c65bb42ae197feacf44aaf6
+        file_format: simple_json
+        update_translations: true
+    - file: ./ar-SA.json
+      params:
+        locale_id: 022789127f32e206d5461d2e7e9ee8cc
         file_format: simple_json
         update_translations: true
   pull:
     targets:
-    - file: ./strings.json
+    - file: ./en-US.json
       params:
+        locale_id: c6a60a221c65bb42ae197feacf44aaf6
+        file_format: simple_json
+        update_translations: true
+    - file: ./ar-SA.json
+      params:
+        locale_id: 022789127f32e206d5461d2e7e9ee8cc
         file_format: simple_json
         include_unverified_translation: true
+        update_translations: true
