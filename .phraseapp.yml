@@ -8,6 +8,7 @@ phraseapp:
         locale_id: c6a60a221c65bb42ae197feacf44aaf6
         file_format: simple_json
         update_translations: true
+        autotranslate: true
     - file: ./ar-SA.json
       params:
         locale_id: 0ff838cb0ab40fdb763d02c0d7645795
