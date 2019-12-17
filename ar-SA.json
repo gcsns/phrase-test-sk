@@ -2,7 +2,10 @@
   "Bye!!": "وداعًا!!",
   "Cancel button": "إلغاء الأمر",
   "Cancel button label": "إلغاء الأمر",
+  "Congratulations!": "تهانينا!",
   "Hello {{username}}": "مرحبا {{username}}",
   "Ok": "موافق",
-  "Save": "حفظ"
+  "Password": "كلمه المرور",
+  "Save": "حفظ",
+  "Thank You!": "شكرا!"
 }

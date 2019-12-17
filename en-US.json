@@ -5,5 +5,7 @@
   "Congratulations!": "Congratulations!",
   "Hello {{username}}": "Hello {{username}}",
   "Ok": "Ok",
-  "Save": "Save"
+  "Password": "Password",
+  "Save": "Save",
+  "Thank You!": "Thank You!"
 }
