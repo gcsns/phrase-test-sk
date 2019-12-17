@@ -1,10 +1,11 @@
 {
-	"Bye!!": "Bye!!",
-	"Cancel button label": "Cancel",
-	"Congratulations!": "Congratulations!",
-	"Hello {{username}}": "Hello {{username}}",
-	"Ok": "Ok",
-	"Password": "Password",
-	"Save": "Save",
-	"Thank You!": "Thank You!"
+  "Bye!!": "Bye!!",
+  "Cancel button": "Cancel",
+  "Cancel button label": "Cancel",
+  "Congratulations!": "Congratulations!",
+  "Hello {{username}}": "Hello {{username}}",
+  "Ok": "Ok",
+  "Password": "Password",
+  "Save": "Save",
+  "Thank You!": "Thank You!"
 }
