@@ -3,12 +3,6 @@ phraseapp:
   project_id: 21e6ec743d5081b063956aa28792b80e
   push:
     sources:
-    - file: ./en-US.json
-      params:
-        locale_id: c6a60a221c65bb42ae197feacf44aaf6
-        file_format: simple_json
-        update_translations: true
-        autotranslate: true
     - file: ./android/en-US/strings.xml
       params:
         locale_id: 6657f846b11c99c32ae2c974bb420049
@@ -17,12 +11,6 @@ phraseapp:
         autotranslate: true
   pull:
     targets:
-    - file: ./ar-SA.json
-      params:
-        locale_id: 0ff838cb0ab40fdb763d02c0d7645795
-        file_format: simple_json
-        include_unverified_translation: true
-        update_translations: true
     - file: ./android/ar-SA/strings.xml
       params:
         locale_id: 1ee40135ee356a323ea781c3e771e1e8
