@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="contactMode">---
+-دعوه
+-الاجتماع
+-الدردشة/البريد الكتروني</string>
+    <string name="device_lock_date">تاريخ انتهاء صلاحيه الجهاز</string>
+    <string name="device_lock_id">معرف قفل الجهاز</string>
+    <string name="greetings">تحيات!</string>
+    <string name="hello">مرحبا</string>
+    <string name="lead_source">---
+-الشبكة الاجتماعية
+-أخرى</string>
+    <string name="lead_status">---
+-جديد
+-المهتمين
+-غير مهتم</string>
+    <string name="nationality">---
+-الامارات
+-الهند
+-سنغافورة
+-المملكة العربية البريطانية
+-الولايات الامريكيه</string>
+    <string name="rating">---
+-المتوسط
+-اقل من المتوسط
+-جيد</string>
+    <string name="something_went_wrong">حدث خطا ما ، يرجى المحاولة مره أخرى!</string>
+</resources>
