@@ -4,70 +4,6 @@
   <string name="something_went_wrong">Something went wrong, please try again !</string>
   <string name="device_lock_date">Device expiry date</string>
   <string name="device_lock_id">Device lock ID</string>
-  <string name="invalid_licence_key_message">This ANDROID_ID is not allowed. Drop me a note at adhityan@gamechangesns.com for a new build.</string>
-  <string name="font_regular" tools:ignore="ReferenceType">@font/open_sans</string>
-  <string name="font_bold" tools:ignore="ReferenceType">@font/open_sans_bold</string>
-  <string name="font_light" tools:ignore="ReferenceType">@font/open_sans_light</string>
-  <string name="font_semi_bold" tools:ignore="ReferenceType">@font/open_sans_semibold</string>
-  <string name="banner1_msg">Select %1$s from the list of keyboards and Activate</string>
-  <string name="banner2_msg">Now Switch to %1$s by selecting %2$s from the list of Keyboards</string>
-  <string name="switch_keyboard">Switch to %1$s</string>
-  <string name="enable_agree_key">Enable %1$s</string>
-  <string name="ready_keyboard">%1$s is now ready for use</string>
-  <string name="whatsapp_notinstalled">Whatsapp is not installed on your phone, please open any other messaging app to continue.</string>
-  <string name="brochures"><u>Brochures</u></string>
-  <string name="bookingForm"><u>Booking Form</u></string>
-  <string name="floorplans"><u>Floor Plans</u></string>
-  <string name="emptyusername">Username/Password cannot be empty, please try again!</string>
-  <string name="getStarted">Get Started</string>
-  <string name="logout"><u>Logout</u></string>
-  <string name="first_name">First Name</string>
-  <string name="last_name">Last Name</string>
-  <string name="phone_number">Phone Number</string>
-  <string name="title_projects">Projects</string>
-  <string name="title_units">Units</string>
-  <string name="title_leads">Leads</string>
-  <string name="name">Name</string>
-  <string name="nationality">Nationality</string>
-  <string name="email">Email</string>
-  <string name="enter_email">Enter your email address</string>
-  <string name="phone">Phone</string>
-  <string name="address">Address</string>
-  <string name="enter_address">Enter your address</string>
-  <string name="lead_status">Lead Status</string>
-  <string name="lead_source">Lead Source</string>
-  <string name="rating">Rating</string>
-  <string name="contacted">Contacted</string>
-  <string name="search_here">Search here</string>
-
-  <string name="expired_login">It looks like you will need to login again!</string>
-
-  <string name="no_internet">There was some trouble reaching the server</string>
-  <string name="empty_firstName">First name cannot be empty</string>
-  <string name="empty_lastName">Last name cannot be empty</string>
-  <string name="empty_phone">Phone no cannot be empty</string>
-  <string name="empty_address">Address cannot be empty</string>
-  <string name="empty_email">Email cannot be empty</string>
-  <string name="login">Login</string>
-  <string name="try_again">Try again</string>
-  <string name="logout_message">Are you sure you want to logout ?</string>
-  <string name="proofofpayment_na">Proof of payment is currently unavailable !</string>
-  <string name="meraas_flavour">meraas</string>
-  <string name="damac_flavour">damac</string>
-  <string name="share_nda_link">Please click on the link below to accept and sign the NDA -  https://docusign-meraas.herokuapp.com/?docuSignParamId=</string>
-  <string name="emaar_flavour">emaar</string>
-
-  <string name="view_notes">View notes</string>
-  <string name="units_soldout">Units for this property has been sold out.</string>
-  <string name="no_results">No results found..., please try again!</string>
-  <string name="proof_of_payment">Proof of payment</string>
-  <string name="close">Close</string>
-  <string name="select_customer">Select Customer</string>
-  <string name="is_sla_violated">Is SLA Violated</string>
-  <string name="property_area">Property Area</string>
-  <string name="property_price">Property Price</string>
-  <string name="send">Send</string>
-
   <string-array name="lead_status">
     <item>New</item>
     <item>Interested</item>
@@ -96,7 +32,6 @@
     <item>+44</item>
     <item>+1</item>
   </string-array>
-
   <string-array name="contactMode">
     <item>Call</item>
     <item>Meeting</item>
