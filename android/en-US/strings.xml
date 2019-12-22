@@ -5,6 +5,7 @@
   <string name="device_lock_date">Device expiry date</string>
   <string name="device_lock_id">Device lock ID</string>
   <string name="hello">hello</string>
+  <string name="greetings">Greetings!</string>
   <string-array name="lead_status">
     <item>New</item>
     <item>Interested</item>
